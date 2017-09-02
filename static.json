@@ -2,7 +2,7 @@
   "https_only": true,
    "headers": {
      "/firebase-messaging-sw.js": {
-       "content-type": "text/javascript; charset=UTF-8"
+       "content-type": "application/x-javascript"
      }
   }
 }
