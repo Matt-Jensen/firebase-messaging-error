@@ -13,7 +13,7 @@ module.exports = function(/* environment, appConfig */) {
     display: "standalone",
     background_color: "#fff",
     theme_color: "#fff",
-    icons: [
-    ]
+    icons: [ ],
+    gcm_sender_id: "103953800507"
   };
 }
