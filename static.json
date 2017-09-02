@@ -1,8 +1,6 @@
 {
   "https_only": true,
-   "headers": {
-     "/firebase-messaging-sw.js": {
-       "content-type": "application/x-javascript"
-     }
+  "routes": {
+     "/firebase-messaging-sw.js": "firebase-messaging-sw.js"
   }
 }
